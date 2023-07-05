@@ -158,7 +158,7 @@ Material:
     - _Fresnel_ST: {r: 1, g: 1, b: 0, a: 0}
     - _GAmplitude: {r: 0.01, g: 0.01, b: 0.01, a: 0.01}
     - _GDirectionAB: {r: 0.46914357, g: 0.35405126, b: -0.2, a: 0.1}
-    - _GDirectionCD: {r: 0.7033888, g: -0.6799999, b: 0.7175735, a: -0.2}
+    - _GDirectionCD: {r: 0.7033888, g: 0, b: 0.7175735, a: -0.2}
     - _GFrequency: {r: 0.1, g: 0.1, b: 0.1, a: 0.1}
     - _GSpeed: {r: 0, g: 0, b: 0, a: 0}
     - _GSteepness: {r: 0, g: 0, b: 0, a: 0}
